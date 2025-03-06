@@ -2,6 +2,8 @@
 
 Minitalk is a small data communication program using UNIX signals to exchange text messages between two executables: a server and a client.
 
+![image](https://github.com/user-attachments/assets/aa78d1db-cf11-440f-85e5-6095793b1c49)
+
 ## Features
 
 - **Real-time communication**: Send and receive messages instantly.
